@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Provides information about the current execution context.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/BITKWANZA.sol": "Context"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/BITKWANZA.sol": {
+			"keccak256": "0x622f9537275608b5f6b325e3a31ebef6eb19ab73253b055c609b758b5894b8c1",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f6e19041b6c4e54e29ec3379d1f4b8b70fa1ed870cfb5cc7b93ef4d1f0196b18",
+				"dweb:/ipfs/QmRDBMxkBvCU19nnghWcXSwwjsaFibFoDesKiH6DMc17RC"
+			]
+		}
+	},
+	"version": 1
+}
